@@ -1,0 +1,31 @@
+.header {
+    text-align: center;
+}
+
+.image {
+    display: block;
+    margin: 0 auto;
+}
+
+.contacts {
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+}
+
+.code {
+    display: block;
+    margin-left: 50%;
+}
+
+p{
+    text-align: center;
+}
+
+body {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(160, 214, 209);
+}
